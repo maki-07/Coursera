@@ -68,14 +68,14 @@ h1 {
 }
 
 
-/********** Large devices only **********/
+/********* Large devices only *********/
 @media (min-width: 992px) {
   .col-lg-4 {
   	float: left;
     width: 33.33%;
   }
 }
-/********** Medium devices only **********/
+/********* Medium devices only *********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6,.col-md-12 {
     float: left;
